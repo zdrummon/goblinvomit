@@ -1,0 +1,13 @@
+text# OS Junk
+.DS_Store
+Thumbs.db
+*.lnk
+
+# IDE Workspaces & Settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Global Web/Design Junk
+node_modules/
+.sass-cache/
