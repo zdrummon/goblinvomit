@@ -1,0 +1,41 @@
+
+# Build output
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# Compiled binaries and intermediate files
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.pch
+
+# vcpkg manifest-mode installation
+vcpkg_installed/
+
+# Local machine-specific configuration
+CMakeUserPresets.json
+
+# OS clutter
+.DS_Store
+Thumbs.db
