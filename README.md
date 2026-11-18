@@ -13,7 +13,8 @@ Ideas:
 12. Syndicate: an RSS based social network
 13. modeling qualia: qualia is rich and fully labeled sensation at the point of integration
 14. on the virtue of undeath: 3 incompatible necromancers from different empires that find each others necromancy grotesque (if I made a zombie film)
-15. on the ontology of being and how it precedes truth: narrative animism and the discovery of self through emergent narrative construction
+15. on the ontology of being and how it precedes truth: narrative animism and the discovery of self through emergent narrative construction, social truth and ontology as irreducible and meaning making
 16. the corporate ostracism act: could annually voting to kill one company, open source the IP, and sell off the physical assets help solve capitalism?
 17. Housing Equilibrium Tax: progressive LVT with mandatory annual land auction system (you can only sell homes to highest bidders) used to subsidize housing constuction somewhere between demand and market equilibrium
-
+18. modern politics is neo-religion: how the church was replaced by the machine because secularism only destroyed and never created
+19. the functionability hypothesis: for any given abitrary system, a function necessarily exists that can be approximated asymptotically, and that function can be approached by scaling training through an architecture (such as deep learning) with a sufficient dataset and parameterization
