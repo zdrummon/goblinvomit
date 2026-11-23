@@ -18,3 +18,4 @@ Ideas:
 17. Housing Equilibrium Tax: progressive LVT with mandatory annual land auction system (you can only sell homes to highest bidders) used to subsidize housing constuction somewhere between demand and market equilibrium
 18. modern politics is neo-religion: how the church was replaced by the machine because secularism only destroyed and never created
 19. the functionability hypothesis: for any given abitrary system, a function necessarily exists that can be approximated asymptotically, and that function can be approached by scaling training through an architecture (such as deep learning) with a sufficient dataset and parameterization
+20. the portable tool created the self: ancient humans creating sufficiently useful and elaborate ancient tools (due to thumb evolution) leave behind material inheritance that eventually leads to the concept of an ancestor, which prompts the existence of language and eventually the notion of a self
