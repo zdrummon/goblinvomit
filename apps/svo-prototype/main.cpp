@@ -6,7 +6,6 @@
 #include <string>
 #include <stdexcept>
 #include <iostream>
-#include <stdexcept>
 #include <vector>
 #include <set>
 
@@ -17,8 +16,7 @@
             throw std::runtime_error("Vulkan error: " + std::to_string(result)); \
     } while (0)
 
-int main()
-{
+int main() {
     // --------------------------------
     // SDL
     // --------------------------------
@@ -112,8 +110,7 @@ int main()
     uint32_t graphicsFamily = UINT32_MAX;
     uint32_t presentFamily = UINT32_MAX;
 
-    for (auto device : devices)
-    {
+    for (auto device : devices) {
         uint32_t familyCount = 0;
 
         vkGetPhysicalDeviceQueueFamilyProperties(
